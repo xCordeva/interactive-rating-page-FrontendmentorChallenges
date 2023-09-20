@@ -60,5 +60,5 @@ While I am satisfied with the current solution, I intend to explore alternative 
 
 ## Demo
 
-You can check out a live demo of this website [here](https://xcordeva.github.io/FrontEndMentor-Challenges/interactive-rating-page/).
+You can check out a live demo of this website [here](https://xcordeva.github.io/interactive-rating-page-FrontendmentorChallenges).
 
